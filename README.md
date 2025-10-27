@@ -1,5 +1,3 @@
-# Visual-Question-Answering
-
 # 🤖 Visual Question Answering (VQA) using CLIP + ResNet Framework
 
 This repository contains the implementation and results of our VQA research:
